@@ -1,0 +1,14 @@
+This plot is made of many dots. Each dot has three characteristics:
+
+/ Vertical location shows what feature it is depicting;
+/ Color shows whether that feature was high or low for that row of the dataset;
+/ Horizontal location shows whether the effect of that value caused a higher or lower prediction.
+
+
+For example, the point in the upper left was for a team that scored few goals, reducing the prediction by 0.25.
+
+Some things you should be able to easily pick out:
+
+/ The model ignored the Red and Yellow & Red features;
+/ Usually Yellow Card doesn't affect the prediction, but there is an extreme case where a high value caused a much lower prediction;
+/ High values of Goal scored caused higher predictions, and low values caused low predictions

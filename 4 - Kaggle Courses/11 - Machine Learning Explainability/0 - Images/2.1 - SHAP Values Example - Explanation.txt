@@ -1,0 +1,5 @@
+How do you interpret this?
+
+We predicted 0.7, whereas the base_value is 0.4979. Feature values causing increased predictions are in pink, and their visual size shows the magnitude of the feature's effect. Feature values decreasing the prediction are in blue. The biggest impact comes from Goal Scored being 2. Though the ball possession value has a meaningful effect decreasing the prediction.
+
+If you subtract the length of the blue bars from the length of the pink bars, it equals the distance from the base value to the output.
