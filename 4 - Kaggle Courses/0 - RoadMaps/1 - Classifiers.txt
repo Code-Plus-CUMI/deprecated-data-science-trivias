@@ -1,0 +1,23 @@
+- Documentation (Problem Description, Files Descriptions, Variables, Target, Metric, Limitations, Goals, Seetup, Aknowledges)
+
+- Reading Dataset and Studying and Filtering Features
+
+- Splitting Dataset into Features and Target; Also check out for Label Encoding
+
+- Exploratory Analysis (Data Types, Categorical Data Entry, Statistical Overview, Correlations)
+
+- Data Transformations (Split Dataset into Training and Validation, Checking for Good and Bad Labels, Checking for Missing Values, Imputers, Encoders)
+
+- Treating Outliers (Identify and Drop/Standard Outliers)
+
+- Feature Engineering (Mutual Information, K-Means Clustering, Principal Component Analysis)
+
+- Baseline ML Models (Evaluation Function, Pipelines, Baseline Models [at least one common and one Boosting])
+
+- Machine Learning Explainability (Permutation Importance, **Summary Plots, Partial Plots and **Contribution/Dependence Plot)
+
+- Make Predictions
+
+- Save and Load the Model with Pickle
+
+**SHAP Values are included into Summary and Contribution/Dependence Plots
